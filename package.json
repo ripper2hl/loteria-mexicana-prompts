@@ -1,0 +1,26 @@
+{
+  "name": "loteria-mexicana-prompts",
+  "version": "1.0.0",
+  "description": "Colección de 54 prompts de IA y generador de plantillas para crear una baraja completa de Lotería Mexicana tradicional libre de derechos de autor.",
+  "main": "scripts/generate-loteria-prompts.js",
+  "scripts": {
+    "generate": "node scripts/generate-loteria-prompts.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ripper2hl/loteria-mexicana-prompts.git"
+  },
+  "keywords": [
+    "loteria-mexicana",
+    "mexican-loteria",
+    "ai-prompts",
+    "image-generation",
+    "gemini-imagen",
+    "midjourney",
+    "dalle",
+    "stable-diffusion",
+    "folklore-mexicano"
+  ],
+  "author": "Israel Perales",
+  "license": "MIT"
+}
